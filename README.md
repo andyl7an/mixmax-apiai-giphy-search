@@ -1,12 +1,17 @@
 # Giphy Slash Command for Mixmax with Natural Language Processing
 
 This is a proof of concept project built on top of the open source Mixmax Slash Command. See <http://developer.mixmax.com/docs/overview-slash-commands#tutorial-building-mygiphy> 
-### Prerequisites
+
+## Natural Language Demo
+
+
+## Prerequisites
 
 To deploy this bot, you will need to have an [API.AI account](https://console.api.ai/) 
 in addition to a [Mixmax developer account](https://developer.mixmax.com/)
 
 ## Setting up Api.ai
+
 1. Go to your [API.AI console](https://console.api.ai/) 
 2. Create a new agent
 3. Go to your agent's settings
