@@ -4,11 +4,14 @@ This is a proof of concept project built on top of the open source Mixmax Slash 
 
 ## Natural Language Demo
 You can use natural language to limit the number of results...
-![Alt Text](https://github.com/andyl7an/mixmax-apiai-giphy-search/blob/master/gifs/ResultLimiting.gif)\s\s
+![Alt Text](https://github.com/andyl7an/mixmax-apiai-giphy-search/blob/master/gifs/ResultLimiting.gif)
+
 or to view all the currently trending gifs...
-![Alt Text](https://github.com/andyl7an/mixmax-apiai-giphy-search/blob/master/gifs/Trending.gif)\s\s
+![Alt Text](https://github.com/andyl7an/mixmax-apiai-giphy-search/blob/master/gifs/Trending.gif)
+
 or to filter your results to stickers...
-![Alt Text](https://github.com/andyl7an/mixmax-apiai-giphy-search/blob/master/gifs/Stickers.gif)\s\s
+![Alt Text](https://github.com/andyl7an/mixmax-apiai-giphy-search/blob/master/gifs/Stickers.gif)
+
 
 ## Prerequisites
 
